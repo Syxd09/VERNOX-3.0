@@ -28,3 +28,5 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+Keep the storefront and interior design experience on separate public routes with a shared header; keep interactions frontend-only until persistence or live integrations are requested.
